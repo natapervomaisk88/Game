@@ -2,6 +2,6 @@
 #include "Player.h"
 using namespace std;
 
-int main() {
-    cout << "Test" << endl;
+int launch_weapon() {
+    cout << "Ready... Lauched" << endl;
 }
